@@ -1,5 +1,5 @@
-mtg_mill_simulation/data/cleaned_mill_data.csv
-mtg_mill_simulation/data/full_rem.csv
-mtg_mill_simulation/data/half_rem.csv
-mtg_mill_simulation/data/low_kill_outliers.csv
-mtg_mill_simulation/data/no_rem.csv
+/data/cleaned_mill_data.csv
+/data/full_rem.csv
+/data/half_rem.csv
+/data/low_kill_outliers.csv
+/data/no_rem.csv
