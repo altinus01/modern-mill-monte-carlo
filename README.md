@@ -4,17 +4,20 @@ Monte Carlo simulation and data analysis for a **Modern MtG Mill deck**.
 This project  simulates thousands of games **without opponent interaction** and does statistical analysis on the resulting data.
 
 ---
-
 ## 📂 Project Structure
-monte_carlo_mill/
-├── code/ # Core Python simulation scripts
-├── data/ # Generated datasets (ignored in Git, can be regenerated)
-├── notebooks/ # Jupyter notebooks for data analysis + visualization
-├── results/ # html file of the notebook analysis I made with the results
-├── requirements.txt # Dependencies for simulation & analysis
-└── .gitignore # Keeps large/scratch files out of Git
----
 
+```plaintext
+monte_carlo_mill/
+├── code/              # Core Python simulation scripts
+├── data/              # Generated datasets (ignored in Git, can be regenerated)
+├── notebooks/         # Jupyter notebooks for analysis & visualization
+├── results/           # Output: plots, figures, HTML exports (from notebooks)
+├── requirements.txt   # Python dependencies for simulation & analysis
+├── .gitignore         # Ignore rules (keeps large/scratch files out of Git)
+└── README.md          # Project documentation
+
+text
+---
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
