@@ -1,5 +1,20 @@
-/data/cleaned_mill_data.csv
-/data/full_rem.csv
-/data/half_rem.csv
-/data/low_kill_outliers.csv
-/data/no_rem.csv
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data
+/data/*
+!data/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
